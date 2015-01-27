@@ -93,7 +93,7 @@ Bter.prototype.makeRequest = function(method, params, callback) {
     headers: {
       SIGN: sign,
       KEY: self.apiKey,
-      Content-Type: 'application/x-www-form-urlencoded'
+      'content-type': 'application/x-www-form-urlencoded'
     }
   }, callback);
 };
