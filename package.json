@@ -29,12 +29,12 @@
   "engines": {
     "node": ">=0.8"
   },
-  "version": "1.0.5",
+  "version": "1.0.6",
   "readme": "node-bter\n=====\n\nAn unofficial node.js client for the [bter trade api](https://bter.com/api) ## License\n\nThis module is [ISC licensed](https://github.com/michaelf77/node-bter/blob/master/LICENSE.txt).\n",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/michaelf77/node-bter/issues"
   },
-  "_id": "bter@1.0.5",
+  "_id": "bter@1.0.6",
   "_from": "bter@"
 }
