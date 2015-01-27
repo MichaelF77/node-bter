@@ -1,0 +1,40 @@
+{
+  "name": "node-bter",
+  "description": "bter.com API client for node.js",
+  "homepage": "https://github.com/michaelf77/node-bter",
+  "keywords": [
+    "bter",
+    "btc",
+    "ltc",
+    "bitcoin",
+    "litecoin"
+  ],
+  "author": {
+    "name": "Michael Feinstein"
+  },
+  "licenses": [
+    {
+      "type": "ISC",
+      "url": "https://github.com/michaelf77/node-bter/blob/master/LICENSE.txt"
+    }
+  ],
+  "dependencies": {
+    "request": "2.49.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelf77/node-bter"
+  },
+  "main": "bter.js",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "version": "1.0.5",
+  "readme": "node-bter\n=====\n\nAn unofficial node.js client for the [bter trade api](https://bter.com/api) ## License\n\nThis module is [ISC licensed](https://github.com/michaelf77/node-bter/blob/master/LICENSE.txt).\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/michaelf77/node-bter/issues"
+  },
+  "_id": "bter@1.0.5",
+  "_from": "bter@"
+}
